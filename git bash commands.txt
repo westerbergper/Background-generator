@@ -27,5 +27,4 @@ lägg till en ny branch
 git branch littlefeature
 
 för att byra branch
-
 git checkout 

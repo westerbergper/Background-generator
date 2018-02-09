@@ -14,4 +14,4 @@ För att commita filen
 git commit -m "Kommentar" 
 
 För att lägga upp filerna
-git push
+git push 

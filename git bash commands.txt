@@ -28,3 +28,6 @@ git branch littlefeature
 
 för att byra branch
 git checkout 
+
+för att merga ihop en branch med master för att inte sakna nått som är gjort i master
+git merge master

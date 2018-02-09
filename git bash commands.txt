@@ -19,3 +19,13 @@ git push
 
 För att hämta nya ändringar
 git pull
+
+kolla branch
+git branch
+
+lägg till en ny branch
+git branch littlefeature
+
+för att byra branch
+
+git checkout 

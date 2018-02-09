@@ -1,0 +1,17 @@
+git bash
+
+Klona ett repository
+git clone https://github.com/westerbergper/Background-generator.git
+
+
+Kolla status 
+git status
+
+Lägga upp en fil
+git add <file>
+
+För att commita filen
+git commit -m "Kommentar" 
+
+För att lägga upp filerna
+git push
